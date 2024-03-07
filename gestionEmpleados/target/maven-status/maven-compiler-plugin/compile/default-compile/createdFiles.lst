@@ -1,0 +1,9 @@
+com\test1\gestionempleados\logica\Controladora.class
+com\test1\gestionempleados\persistencia\ControladoraPersistencia.class
+com\test1\gestionempleados\logica\empleado.class
+com\test1\gestionempleados\logica\empleado_.class
+com\test1\gestionempleados\persistencia\exceptions\PreexistingEntityException.class
+com\test1\gestionempleados\persistencia\exceptions\NonexistentEntityException.class
+com\test1\gestionempleados\persistencia\empleadoJpaController.class
+com\test1\gestionempleados\persistencia\exceptions\IllegalOrphanException.class
+com\test1\gestionempleados\GestionEmpleados.class
